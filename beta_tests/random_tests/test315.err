@@ -1,7 +1,5 @@
-Error in line 9: CAR6 A3 355,4
-Error in line 11: CAR7 S3 256,9
-Error in line 17: CAR8 A5 441,7
-Error in line 16: CAR4 S5 537,6
-Error in line 27: CAR5 A1 108,2
-Error in line 35: CAR8 A5 476,1
-Error in line 85: CAR5 A2 513,5
+Error in line 20: CAR10 A5 544,1
+Error in line 53: ^S508
+Error in line 65: CAR6 A2 663,1
+Error in line 89: CAR4 A3 251,7
+Error in line 88: CAR1 A5 967,3
